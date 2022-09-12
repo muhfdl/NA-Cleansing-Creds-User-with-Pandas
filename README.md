@@ -3,5 +3,5 @@
 *Cleansing Creds User on Network Automation*
 
 **:notebook: Concept:** <br>
-Justify the data (lower-typo-space) on username & password. (Must be in dataframe)
+Justify the data (lower-typo-space) on username & password. (Must be in dataframe) <br>
 After that, script will call the data in the table for automation purposes.
