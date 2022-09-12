@@ -1,5 +1,0 @@
-Judul Final Projek: Cleansing Creds User dalam Network Automation
-
-Flow:
-Pembenaran (lower-typo-spasi) pada username & password. (Harus dalam dataframe)
-Nantinya akan memanggil data pada tabel untuk automation
